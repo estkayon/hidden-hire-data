@@ -1,0 +1,119 @@
+{
+  "run_at": "2026-11-11T04:23:13.313349+00:00",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "jobs_found": 1219,
+      "jobs_kept": 19,
+      "errors": []
+    },
+    {
+      "source": "lever",
+      "jobs_found": 390,
+      "jobs_kept": 4,
+      "errors": []
+    },
+    {
+      "source": "ashby",
+      "jobs_found": 1003,
+      "jobs_kept": 17,
+      "errors": []
+    },
+    {
+      "source": "workable",
+      "jobs_found": 6,
+      "jobs_kept": 0,
+      "errors": []
+    },
+    {
+      "source": "recruitee",
+      "jobs_found": 26,
+      "jobs_kept": 0,
+      "errors": []
+    },
+    {
+      "source": "smartrecruiters",
+      "jobs_found": 51,
+      "jobs_kept": 51,
+      "errors": []
+    },
+    {
+      "source": "remoteok",
+      "jobs_found": 99,
+      "jobs_kept": 9,
+      "errors": []
+    },
+    {
+      "source": "remotive",
+      "jobs_found": 0,
+      "jobs_kept": 0,
+      "errors": []
+    },
+    {
+      "source": "weworkremotely",
+      "jobs_found": 25,
+      "jobs_kept": 0,
+      "errors": []
+    },
+    {
+      "source": "himalayas",
+      "jobs_found": 500,
+      "jobs_kept": 48,
+      "errors": []
+    },
+    {
+      "source": "jobicy",
+      "jobs_found": 500,
+      "jobs_kept": 31,
+      "errors": []
+    },
+    {
+      "source": "workingnomads",
+      "jobs_found": 36,
+      "jobs_kept": 3,
+      "errors": []
+    },
+    {
+      "source": "arbeitnow",
+      "jobs_found": 300,
+      "jobs_kept": 38,
+      "errors": []
+    },
+    {
+      "source": "arbeitsagentur",
+      "jobs_found": 118,
+      "jobs_kept": 34,
+      "errors": []
+    },
+    {
+      "source": "mycareersfuture",
+      "jobs_found": 322,
+      "jobs_kept": 143,
+      "errors": []
+    },
+    {
+      "source": "reed",
+      "jobs_found": 666,
+      "jobs_kept": 122,
+      "errors": []
+    },
+    {
+      "source": "hackernews",
+      "jobs_found": 195,
+      "jobs_kept": 54,
+      "errors": [
+        "hackernews: bad job (ValueError)",
+        "hackernews: bad job (ValueError)",
+        "hackernews: bad job (ValueError)",
+        "hackernews: bad job (ValueError)",
+        "hackernews: bad job (ValueError)"
+      ]
+    },
+    {
+      "source": "seek",
+      "jobs_found": 0,
+      "jobs_kept": 0,
+      "errors": []
+    }
+  ]
+}
