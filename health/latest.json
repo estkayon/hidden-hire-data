@@ -1,22 +1,22 @@
 {
-  "run_at": "2026-11-11T14:21:31.404443+00:00",
+  "run_at": "2026-11-11T21:57:28.224856+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2288,
+      "jobs_found": 2295,
       "jobs_kept": 30,
       "errors": []
     },
     {
       "source": "lever",
-      "jobs_found": 639,
+      "jobs_found": 636,
       "jobs_kept": 4,
       "errors": []
     },
     {
       "source": "ashby",
-      "jobs_found": 1838,
-      "jobs_kept": 25,
+      "jobs_found": 1828,
+      "jobs_kept": 27,
       "errors": []
     },
     {
@@ -33,31 +33,31 @@
     },
     {
       "source": "smartrecruiters",
-      "jobs_found": 57,
-      "jobs_kept": 57,
+      "jobs_found": 58,
+      "jobs_kept": 58,
       "errors": []
     },
     {
       "source": "personio",
-      "jobs_found": 67,
+      "jobs_found": 66,
       "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "teamtailor",
-      "jobs_found": 87,
+      "jobs_found": 88,
       "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "remoteok",
       "jobs_found": 99,
-      "jobs_kept": 9,
+      "jobs_kept": 10,
       "errors": []
     },
     {
       "source": "remotive",
-      "jobs_found": 13,
+      "jobs_found": 0,
       "jobs_kept": 0,
       "errors": []
     },
@@ -76,61 +76,55 @@
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 34,
+      "jobs_kept": 38,
       "errors": []
     },
     {
       "source": "workingnomads",
-      "jobs_found": 38,
+      "jobs_found": 37,
       "jobs_kept": 3,
       "errors": []
     },
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 25,
+      "jobs_kept": 27,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 217,
-      "jobs_kept": 64,
+      "jobs_found": 228,
+      "jobs_kept": 70,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 323,
+      "jobs_found": 321,
       "jobs_kept": 133,
       "errors": []
     },
     {
       "source": "reed",
-      "jobs_found": 669,
-      "jobs_kept": 122,
+      "jobs_found": 664,
+      "jobs_kept": 124,
       "errors": []
     },
     {
       "source": "hackernews",
-      "jobs_found": 197,
-      "jobs_kept": 54,
-      "errors": [
-        "hackernews: bad job (ValueError)",
-        "hackernews: bad job (ValueError)",
-        "hackernews: bad job (ValueError)",
-        "hackernews: bad job (ValueError)",
-        "hackernews: bad job (ValueError)"
-      ]
+      "jobs_found": 200,
+      "jobs_kept": 55,
+      "errors": []
     },
     {
       "source": "seek",
-      "jobs_found": 501,
-      "jobs_kept": 114,
+      "jobs_found": 0,
+      "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "remoteintegrity",
-      "jobs_found": 4,
-      "jobs_kept": 1,
+      "jobs_found": 5,
+      "jobs_kept": 2,
       "errors": []
     },
     {
