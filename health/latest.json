@@ -1,22 +1,22 @@
 {
-  "run_at": "2026-11-13T17:12:49.488891+00:00",
+  "run_at": "2026-11-13T23:32:57.125094+00:00",
   "sources": [
     {
       "source": "greenhouse",
       "jobs_found": 2291,
-      "jobs_kept": 24,
+      "jobs_kept": 21,
       "errors": []
     },
     {
       "source": "lever",
-      "jobs_found": 643,
+      "jobs_found": 645,
       "jobs_kept": 5,
       "errors": []
     },
     {
       "source": "ashby",
-      "jobs_found": 1837,
-      "jobs_kept": 23,
+      "jobs_found": 1840,
+      "jobs_kept": 25,
       "errors": []
     },
     {
@@ -51,14 +51,26 @@
     },
     {
       "source": "manatal",
-      "jobs_found": 15,
-      "jobs_kept": 0,
+      "jobs_found": 26,
+      "jobs_kept": 2,
       "errors": []
     },
     {
       "source": "wordpress",
-      "jobs_found": 16,
+      "jobs_found": 18,
       "jobs_kept": 2,
+      "errors": []
+    },
+    {
+      "source": "recruiterbox",
+      "jobs_found": 3,
+      "jobs_kept": 1,
+      "errors": []
+    },
+    {
+      "source": "jazzhr",
+      "jobs_found": 8,
+      "jobs_kept": 0,
       "errors": []
     },
     {
@@ -82,13 +94,13 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 56,
+      "jobs_kept": 37,
       "errors": []
     },
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 34,
+      "jobs_kept": 42,
       "errors": []
     },
     {
@@ -100,31 +112,31 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 20,
+      "jobs_kept": 28,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 342,
-      "jobs_kept": 117,
+      "jobs_found": 341,
+      "jobs_kept": 116,
       "errors": []
     },
     {
       "source": "mycareersfuture",
       "jobs_found": 333,
-      "jobs_kept": 130,
+      "jobs_kept": 129,
       "errors": []
     },
     {
       "source": "reed",
-      "jobs_found": 666,
-      "jobs_kept": 102,
+      "jobs_found": 665,
+      "jobs_kept": 105,
       "errors": []
     },
     {
       "source": "hackernews",
-      "jobs_found": 209,
-      "jobs_kept": 15,
+      "jobs_found": 212,
+      "jobs_kept": 14,
       "errors": []
     },
     {
@@ -143,12 +155,6 @@
       "source": "bdtechjobs",
       "jobs_found": 45,
       "jobs_kept": 14,
-      "errors": []
-    },
-    {
-      "source": "dhakacareers",
-      "jobs_found": 95,
-      "jobs_kept": 0,
       "errors": []
     },
     {
