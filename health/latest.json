@@ -1,22 +1,22 @@
 {
-  "run_at": "2026-11-14T18:46:13.531452+00:00",
+  "run_at": "2026-11-14T23:01:58.452044+00:00",
   "sources": [
     {
       "source": "greenhouse",
       "jobs_found": 2287,
-      "jobs_kept": 19,
+      "jobs_kept": 18,
       "errors": []
     },
     {
       "source": "lever",
       "jobs_found": 647,
-      "jobs_kept": 4,
+      "jobs_kept": 1,
       "errors": []
     },
     {
       "source": "ashby",
       "jobs_found": 1842,
-      "jobs_kept": 25,
+      "jobs_kept": 24,
       "errors": []
     },
     {
@@ -76,12 +76,12 @@
     {
       "source": "remoteok",
       "jobs_found": 97,
-      "jobs_kept": 9,
+      "jobs_kept": 8,
       "errors": []
     },
     {
       "source": "remotive",
-      "jobs_found": 16,
+      "jobs_found": 0,
       "jobs_kept": 0,
       "errors": []
     },
@@ -94,13 +94,13 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 35,
+      "jobs_kept": 44,
       "errors": []
     },
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 32,
+      "jobs_kept": 33,
       "errors": []
     },
     {
@@ -112,7 +112,7 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 40,
+      "jobs_kept": 31,
       "errors": []
     },
     {
@@ -129,13 +129,13 @@
     },
     {
       "source": "reed",
-      "jobs_found": 667,
-      "jobs_kept": 92,
+      "jobs_found": 662,
+      "jobs_kept": 87,
       "errors": []
     },
     {
       "source": "hackernews",
-      "jobs_found": 212,
+      "jobs_found": 213,
       "jobs_kept": 14,
       "errors": []
     },
