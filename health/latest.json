@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-11-15T17:47:51.760050+00:00",
+  "run_at": "2026-11-15T22:55:20.678167+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2287,
-      "jobs_kept": 17,
+      "jobs_found": 2283,
+      "jobs_kept": 16,
       "errors": []
     },
     {
@@ -16,7 +16,7 @@
     {
       "source": "ashby",
       "jobs_found": 1841,
-      "jobs_kept": 24,
+      "jobs_kept": 22,
       "errors": []
     },
     {
@@ -94,7 +94,7 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 44,
+      "jobs_kept": 38,
       "errors": []
     },
     {
@@ -112,7 +112,7 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 39,
+      "jobs_kept": 36,
       "errors": []
     },
     {
@@ -129,14 +129,14 @@
     },
     {
       "source": "reed",
-      "jobs_found": 663,
-      "jobs_kept": 89,
+      "jobs_found": 667,
+      "jobs_kept": 90,
       "errors": []
     },
     {
       "source": "hackernews",
       "jobs_found": 214,
-      "jobs_kept": 14,
+      "jobs_kept": 13,
       "errors": []
     },
     {
