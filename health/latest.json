@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-14T23:01:58.452044+00:00",
+  "run_at": "2026-11-15T02:45:13.591827+00:00",
   "sources": [
     {
       "source": "greenhouse",
@@ -76,12 +76,12 @@
     {
       "source": "remoteok",
       "jobs_found": 97,
-      "jobs_kept": 8,
+      "jobs_kept": 7,
       "errors": []
     },
     {
       "source": "remotive",
-      "jobs_found": 0,
+      "jobs_found": 16,
       "jobs_kept": 0,
       "errors": []
     },
@@ -94,7 +94,7 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 44,
+      "jobs_kept": 42,
       "errors": []
     },
     {
@@ -112,38 +112,40 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 31,
+      "jobs_kept": 29,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 180,
-      "jobs_kept": 50,
+      "jobs_found": 2,
+      "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 331,
-      "jobs_kept": 129,
+      "jobs_found": 336,
+      "jobs_kept": 123,
       "errors": []
     },
     {
       "source": "reed",
-      "jobs_found": 662,
-      "jobs_kept": 87,
+      "jobs_found": 668,
+      "jobs_kept": 86,
       "errors": []
     },
     {
       "source": "hackernews",
       "jobs_found": 213,
-      "jobs_kept": 14,
+      "jobs_kept": 13,
       "errors": []
     },
     {
       "source": "seek",
-      "jobs_found": 0,
-      "jobs_kept": 0,
-      "errors": []
+      "jobs_found": 420,
+      "jobs_kept": 82,
+      "errors": [
+        "seek/TH-Main: HTTP 403"
+      ]
     },
     {
       "source": "remoteintegrity",
