@@ -1,29 +1,29 @@
 {
-  "run_at": "2026-11-17T22:57:24.376331+00:00",
+  "run_at": "2026-11-18T04:29:27.249206+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2258,
-      "jobs_kept": 8,
+      "jobs_found": 2254,
+      "jobs_kept": 10,
       "errors": []
     },
     {
       "source": "lever",
-      "jobs_found": 643,
+      "jobs_found": 644,
       "jobs_kept": 2,
       "errors": []
     },
     {
       "source": "ashby",
-      "jobs_found": 1847,
-      "jobs_kept": 23,
+      "jobs_found": 1845,
+      "jobs_kept": 24,
       "errors": [
         "ashby/openai: bad job (ValidationError)"
       ]
     },
     {
       "source": "workable",
-      "jobs_found": 173,
+      "jobs_found": 172,
       "jobs_kept": 2,
       "errors": []
     },
@@ -35,8 +35,8 @@
     },
     {
       "source": "smartrecruiters",
-      "jobs_found": 50,
-      "jobs_kept": 50,
+      "jobs_found": 52,
+      "jobs_kept": 52,
       "errors": []
     },
     {
@@ -96,7 +96,7 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 43,
+      "jobs_kept": 50,
       "errors": []
     },
     {
@@ -114,25 +114,27 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 24,
+      "jobs_kept": 27,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 417,
-      "jobs_kept": 195,
+      "jobs_found": 335,
+      "jobs_kept": 170,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 316,
-      "jobs_kept": 125,
-      "errors": []
+      "jobs_found": 0,
+      "jobs_kept": 0,
+      "errors": [
+        "mycareersfuture: ReadTimeout"
+      ]
     },
     {
       "source": "reed",
-      "jobs_found": 664,
-      "jobs_kept": 105,
+      "jobs_found": 658,
+      "jobs_kept": 109,
       "errors": []
     },
     {
@@ -161,8 +163,8 @@
     },
     {
       "source": "bulldogjob",
-      "jobs_found": 16,
-      "jobs_kept": 2,
+      "jobs_found": 17,
+      "jobs_kept": 3,
       "errors": []
     },
     {
