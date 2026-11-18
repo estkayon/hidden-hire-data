@@ -1,53 +1,53 @@
 {
-  "run_at": "2026-11-18T04:29:27.249206+00:00",
+  "run_at": "2026-11-18T14:10:34.116075+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2254,
-      "jobs_kept": 10,
+      "jobs_found": 2248,
+      "jobs_kept": 12,
       "errors": []
     },
     {
       "source": "lever",
-      "jobs_found": 644,
-      "jobs_kept": 2,
+      "jobs_found": 653,
+      "jobs_kept": 3,
       "errors": []
     },
     {
       "source": "ashby",
-      "jobs_found": 1845,
-      "jobs_kept": 24,
+      "jobs_found": 1847,
+      "jobs_kept": 28,
       "errors": [
         "ashby/openai: bad job (ValidationError)"
       ]
     },
     {
       "source": "workable",
-      "jobs_found": 172,
+      "jobs_found": 171,
       "jobs_kept": 2,
       "errors": []
     },
     {
       "source": "recruitee",
-      "jobs_found": 38,
+      "jobs_found": 37,
       "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "smartrecruiters",
-      "jobs_found": 52,
-      "jobs_kept": 52,
+      "jobs_found": 61,
+      "jobs_kept": 61,
       "errors": []
     },
     {
       "source": "personio",
-      "jobs_found": 65,
+      "jobs_found": 64,
       "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "teamtailor",
-      "jobs_found": 92,
+      "jobs_found": 90,
       "jobs_kept": 0,
       "errors": []
     },
@@ -83,7 +83,7 @@
     },
     {
       "source": "remotive",
-      "jobs_found": 0,
+      "jobs_found": 16,
       "jobs_kept": 0,
       "errors": []
     },
@@ -96,13 +96,13 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 50,
+      "jobs_kept": 38,
       "errors": []
     },
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 30,
+      "jobs_kept": 35,
       "errors": []
     },
     {
@@ -114,27 +114,25 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 27,
+      "jobs_kept": 33,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 335,
-      "jobs_kept": 170,
+      "jobs_found": 402,
+      "jobs_kept": 192,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 0,
-      "jobs_kept": 0,
-      "errors": [
-        "mycareersfuture: ReadTimeout"
-      ]
+      "jobs_found": 313,
+      "jobs_kept": 135,
+      "errors": []
     },
     {
       "source": "reed",
-      "jobs_found": 658,
-      "jobs_kept": 109,
+      "jobs_found": 663,
+      "jobs_kept": 105,
       "errors": []
     },
     {
@@ -145,9 +143,11 @@
     },
     {
       "source": "seek",
-      "jobs_found": 0,
-      "jobs_kept": 0,
-      "errors": []
+      "jobs_found": 435,
+      "jobs_kept": 86,
+      "errors": [
+        "seek/TH-Main: HTTP 403"
+      ]
     },
     {
       "source": "remoteintegrity",
