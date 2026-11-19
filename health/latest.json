@@ -1,21 +1,21 @@
 {
-  "run_at": "2026-11-19T03:37:16.833720+00:00",
+  "run_at": "2026-11-19T13:22:56.381314+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2231,
-      "jobs_kept": 12,
+      "jobs_found": 2228,
+      "jobs_kept": 11,
       "errors": []
     },
     {
       "source": "lever",
-      "jobs_found": 655,
-      "jobs_kept": 3,
+      "jobs_found": 651,
+      "jobs_kept": 5,
       "errors": []
     },
     {
       "source": "ashby",
-      "jobs_found": 1846,
+      "jobs_found": 1851,
       "jobs_kept": 30,
       "errors": [
         "ashby/openai: bad job (ValidationError)"
@@ -23,31 +23,31 @@
     },
     {
       "source": "workable",
-      "jobs_found": 171,
+      "jobs_found": 169,
       "jobs_kept": 2,
       "errors": []
     },
     {
       "source": "recruitee",
-      "jobs_found": 38,
+      "jobs_found": 37,
       "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "smartrecruiters",
-      "jobs_found": 66,
-      "jobs_kept": 66,
+      "jobs_found": 79,
+      "jobs_kept": 79,
       "errors": []
     },
     {
       "source": "personio",
-      "jobs_found": 64,
+      "jobs_found": 63,
       "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "teamtailor",
-      "jobs_found": 90,
+      "jobs_found": 86,
       "jobs_kept": 0,
       "errors": []
     },
@@ -65,7 +65,7 @@
     },
     {
       "source": "recruiterbox",
-      "jobs_found": 3,
+      "jobs_found": 2,
       "jobs_kept": 1,
       "errors": []
     },
@@ -83,7 +83,7 @@
     },
     {
       "source": "remotive",
-      "jobs_found": 0,
+      "jobs_found": 16,
       "jobs_kept": 0,
       "errors": []
     },
@@ -96,45 +96,43 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 56,
+      "jobs_kept": 67,
       "errors": []
     },
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 37,
+      "jobs_kept": 41,
       "errors": []
     },
     {
       "source": "workingnomads",
-      "jobs_found": 36,
-      "jobs_kept": 3,
+      "jobs_found": 37,
+      "jobs_kept": 1,
       "errors": []
     },
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 28,
+      "jobs_kept": 45,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 222,
-      "jobs_kept": 65,
+      "jobs_found": 280,
+      "jobs_kept": 83,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 0,
-      "jobs_kept": 0,
-      "errors": [
-        "mycareersfuture: ReadTimeout"
-      ]
+      "jobs_found": 338,
+      "jobs_kept": 135,
+      "errors": []
     },
     {
       "source": "reed",
-      "jobs_found": 660,
-      "jobs_kept": 100,
+      "jobs_found": 654,
+      "jobs_kept": 106,
       "errors": []
     },
     {
@@ -145,9 +143,11 @@
     },
     {
       "source": "seek",
-      "jobs_found": 0,
-      "jobs_kept": 0,
-      "errors": []
+      "jobs_found": 422,
+      "jobs_kept": 101,
+      "errors": [
+        "seek/TH-Main: HTTP 403"
+      ]
     },
     {
       "source": "remoteintegrity",
