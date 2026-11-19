@@ -1,21 +1,21 @@
 {
-  "run_at": "2026-11-18T22:03:52.341857+00:00",
+  "run_at": "2026-11-19T03:37:16.833720+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2239,
+      "jobs_found": 2231,
       "jobs_kept": 12,
       "errors": []
     },
     {
       "source": "lever",
-      "jobs_found": 654,
+      "jobs_found": 655,
       "jobs_kept": 3,
       "errors": []
     },
     {
       "source": "ashby",
-      "jobs_found": 1849,
+      "jobs_found": 1846,
       "jobs_kept": 30,
       "errors": [
         "ashby/openai: bad job (ValidationError)"
@@ -96,7 +96,7 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 50,
+      "jobs_kept": 56,
       "errors": []
     },
     {
@@ -114,31 +114,33 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 21,
+      "jobs_kept": 28,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 476,
-      "jobs_kept": 224,
+      "jobs_found": 222,
+      "jobs_kept": 65,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 313,
-      "jobs_kept": 139,
-      "errors": []
+      "jobs_found": 0,
+      "jobs_kept": 0,
+      "errors": [
+        "mycareersfuture: ReadTimeout"
+      ]
     },
     {
       "source": "reed",
       "jobs_found": 660,
-      "jobs_kept": 110,
+      "jobs_kept": 100,
       "errors": []
     },
     {
       "source": "hackernews",
       "jobs_found": 213,
-      "jobs_kept": 10,
+      "jobs_kept": 9,
       "errors": []
     },
     {
@@ -162,13 +164,13 @@
     {
       "source": "bulldogjob",
       "jobs_found": 17,
-      "jobs_kept": 3,
+      "jobs_kept": 6,
       "errors": []
     },
     {
       "source": "japandev",
-      "jobs_found": 155,
-      "jobs_kept": 6,
+      "jobs_found": 156,
+      "jobs_kept": 5,
       "errors": []
     }
   ]
