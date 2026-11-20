@@ -1,22 +1,22 @@
 {
-  "run_at": "2026-11-20T13:02:52.669107+00:00",
+  "run_at": "2026-11-20T21:14:01.982571+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2232,
-      "jobs_kept": 13,
+      "jobs_found": 2245,
+      "jobs_kept": 15,
       "errors": []
     },
     {
       "source": "lever",
-      "jobs_found": 653,
+      "jobs_found": 651,
       "jobs_kept": 5,
       "errors": []
     },
     {
       "source": "ashby",
-      "jobs_found": 1864,
-      "jobs_kept": 25,
+      "jobs_found": 1861,
+      "jobs_kept": 26,
       "errors": [
         "ashby/openai: bad job (ValidationError)"
       ]
@@ -47,7 +47,7 @@
     },
     {
       "source": "teamtailor",
-      "jobs_found": 85,
+      "jobs_found": 86,
       "jobs_kept": 0,
       "errors": []
     },
@@ -78,12 +78,12 @@
     {
       "source": "remoteok",
       "jobs_found": 98,
-      "jobs_kept": 5,
+      "jobs_kept": 6,
       "errors": []
     },
     {
       "source": "remotive",
-      "jobs_found": 15,
+      "jobs_found": 0,
       "jobs_kept": 0,
       "errors": []
     },
@@ -96,58 +96,56 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 33,
+      "jobs_kept": 48,
       "errors": []
     },
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 40,
+      "jobs_kept": 42,
       "errors": []
     },
     {
       "source": "workingnomads",
-      "jobs_found": 36,
+      "jobs_found": 35,
       "jobs_kept": 1,
       "errors": []
     },
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 28,
+      "jobs_kept": 15,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 286,
-      "jobs_kept": 96,
+      "jobs_found": 325,
+      "jobs_kept": 112,
       "errors": []
     },
     {
       "source": "mycareersfuture",
       "jobs_found": 327,
-      "jobs_kept": 142,
+      "jobs_kept": 146,
       "errors": []
     },
     {
       "source": "reed",
-      "jobs_found": 665,
-      "jobs_kept": 109,
+      "jobs_found": 659,
+      "jobs_kept": 116,
       "errors": []
     },
     {
       "source": "hackernews",
-      "jobs_found": 213,
+      "jobs_found": 212,
       "jobs_kept": 9,
       "errors": []
     },
     {
       "source": "seek",
-      "jobs_found": 380,
-      "jobs_kept": 83,
-      "errors": [
-        "seek/TH-Main: HTTP 403"
-      ]
+      "jobs_found": 0,
+      "jobs_kept": 0,
+      "errors": []
     },
     {
       "source": "remoteintegrity",
