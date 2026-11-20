@@ -1,22 +1,22 @@
 {
-  "run_at": "2026-11-19T22:14:08.415698+00:00",
+  "run_at": "2026-11-20T03:30:10.609890+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2228,
-      "jobs_kept": 12,
+      "jobs_found": 2227,
+      "jobs_kept": 13,
       "errors": []
     },
     {
       "source": "lever",
-      "jobs_found": 651,
+      "jobs_found": 652,
       "jobs_kept": 5,
       "errors": []
     },
     {
       "source": "ashby",
-      "jobs_found": 1859,
-      "jobs_kept": 28,
+      "jobs_found": 1871,
+      "jobs_kept": 25,
       "errors": [
         "ashby/openai: bad job (ValidationError)"
       ]
@@ -96,7 +96,7 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 46,
+      "jobs_kept": 54,
       "errors": []
     },
     {
@@ -114,25 +114,27 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 33,
+      "jobs_kept": 28,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 341,
-      "jobs_kept": 125,
+      "jobs_found": 191,
+      "jobs_kept": 76,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 337,
-      "jobs_kept": 135,
-      "errors": []
+      "jobs_found": 0,
+      "jobs_kept": 0,
+      "errors": [
+        "mycareersfuture: ReadTimeout"
+      ]
     },
     {
       "source": "reed",
-      "jobs_found": 659,
-      "jobs_kept": 113,
+      "jobs_found": 668,
+      "jobs_kept": 101,
       "errors": []
     },
     {
@@ -155,9 +157,11 @@
     },
     {
       "source": "bdtechjobs",
-      "jobs_found": 45,
-      "jobs_kept": 14,
-      "errors": []
+      "jobs_found": 0,
+      "jobs_kept": 0,
+      "errors": [
+        "bdtechjobs: HTTP 402"
+      ]
     },
     {
       "source": "bulldogjob",
@@ -167,7 +171,7 @@
     },
     {
       "source": "japandev",
-      "jobs_found": 156,
+      "jobs_found": 155,
       "jobs_kept": 5,
       "errors": []
     }
