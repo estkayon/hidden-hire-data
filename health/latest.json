@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-11-21T02:29:15.312895+00:00",
+  "run_at": "2026-11-21T11:17:10.282202+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2241,
-      "jobs_kept": 15,
+      "jobs_found": 2238,
+      "jobs_kept": 14,
       "errors": []
     },
     {
@@ -35,8 +35,8 @@
     },
     {
       "source": "smartrecruiters",
-      "jobs_found": 74,
-      "jobs_kept": 74,
+      "jobs_found": 70,
+      "jobs_kept": 70,
       "errors": []
     },
     {
@@ -77,13 +77,13 @@
     },
     {
       "source": "remoteok",
-      "jobs_found": 98,
-      "jobs_kept": 6,
+      "jobs_found": 100,
+      "jobs_kept": 3,
       "errors": []
     },
     {
       "source": "remotive",
-      "jobs_found": 16,
+      "jobs_found": 0,
       "jobs_kept": 0,
       "errors": []
     },
@@ -96,13 +96,13 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 36,
+      "jobs_kept": 43,
       "errors": []
     },
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 43,
+      "jobs_kept": 42,
       "errors": []
     },
     {
@@ -114,25 +114,25 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 17,
+      "jobs_kept": 28,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 174,
-      "jobs_kept": 45,
+      "jobs_found": 190,
+      "jobs_kept": 53,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 327,
-      "jobs_kept": 144,
+      "jobs_found": 326,
+      "jobs_kept": 147,
       "errors": []
     },
     {
       "source": "reed",
-      "jobs_found": 660,
-      "jobs_kept": 104,
+      "jobs_found": 662,
+      "jobs_kept": 108,
       "errors": []
     },
     {
@@ -143,11 +143,9 @@
     },
     {
       "source": "seek",
-      "jobs_found": 389,
-      "jobs_kept": 81,
-      "errors": [
-        "seek/TH-Main: HTTP 403"
-      ]
+      "jobs_found": 0,
+      "jobs_kept": 0,
+      "errors": []
     },
     {
       "source": "remoteintegrity",
