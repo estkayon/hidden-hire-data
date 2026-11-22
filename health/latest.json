@@ -1,9 +1,9 @@
 {
-  "run_at": "2026-11-22T15:26:08.957671+00:00",
+  "run_at": "2026-11-22T21:52:59.367036+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2238,
+      "jobs_found": 2240,
       "jobs_kept": 15,
       "errors": []
     },
@@ -16,7 +16,7 @@
     {
       "source": "ashby",
       "jobs_found": 1861,
-      "jobs_kept": 22,
+      "jobs_kept": 28,
       "errors": [
         "ashby/openai: bad job (ValidationError)"
       ]
@@ -35,8 +35,8 @@
     },
     {
       "source": "smartrecruiters",
-      "jobs_found": 64,
-      "jobs_kept": 64,
+      "jobs_found": 63,
+      "jobs_kept": 63,
       "errors": []
     },
     {
@@ -96,13 +96,13 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 25,
+      "jobs_kept": 60,
       "errors": []
     },
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 30,
+      "jobs_kept": 34,
       "errors": []
     },
     {
@@ -114,7 +114,7 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 17,
+      "jobs_kept": 20,
       "errors": []
     },
     {
@@ -125,14 +125,14 @@
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 330,
-      "jobs_kept": 147,
+      "jobs_found": 331,
+      "jobs_kept": 144,
       "errors": []
     },
     {
       "source": "reed",
-      "jobs_found": 657,
-      "jobs_kept": 97,
+      "jobs_found": 662,
+      "jobs_kept": 95,
       "errors": []
     },
     {
