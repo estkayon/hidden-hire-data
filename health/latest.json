@@ -1,22 +1,22 @@
 {
-  "run_at": "2026-11-22T06:59:49.667402+00:00",
+  "run_at": "2026-11-22T15:26:08.957671+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2240,
+      "jobs_found": 2238,
       "jobs_kept": 15,
       "errors": []
     },
     {
       "source": "lever",
       "jobs_found": 653,
-      "jobs_kept": 5,
+      "jobs_kept": 4,
       "errors": []
     },
     {
       "source": "ashby",
       "jobs_found": 1861,
-      "jobs_kept": 23,
+      "jobs_kept": 22,
       "errors": [
         "ashby/openai: bad job (ValidationError)"
       ]
@@ -35,8 +35,8 @@
     },
     {
       "source": "smartrecruiters",
-      "jobs_found": 66,
-      "jobs_kept": 66,
+      "jobs_found": 64,
+      "jobs_kept": 64,
       "errors": []
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "wordpress",
       "jobs_found": 20,
-      "jobs_kept": 1,
+      "jobs_kept": 0,
       "errors": []
     },
     {
@@ -78,12 +78,12 @@
     {
       "source": "remoteok",
       "jobs_found": 100,
-      "jobs_kept": 1,
+      "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "remotive",
-      "jobs_found": 16,
+      "jobs_found": 0,
       "jobs_kept": 0,
       "errors": []
     },
@@ -96,13 +96,13 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 46,
+      "jobs_kept": 25,
       "errors": []
     },
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 40,
+      "jobs_kept": 30,
       "errors": []
     },
     {
@@ -119,26 +119,26 @@
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 32,
-      "jobs_kept": 14,
+      "jobs_found": 97,
+      "jobs_kept": 43,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 333,
-      "jobs_kept": 142,
+      "jobs_found": 330,
+      "jobs_kept": 147,
       "errors": []
     },
     {
       "source": "reed",
       "jobs_found": 657,
-      "jobs_kept": 95,
+      "jobs_kept": 97,
       "errors": []
     },
     {
       "source": "hackernews",
-      "jobs_found": 212,
-      "jobs_kept": 5,
+      "jobs_found": 211,
+      "jobs_kept": 3,
       "errors": []
     },
     {
