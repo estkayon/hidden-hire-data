@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-21T23:26:43.365829+00:00",
+  "run_at": "2026-11-22T06:59:49.667402+00:00",
   "sources": [
     {
       "source": "greenhouse",
@@ -24,7 +24,7 @@
     {
       "source": "workable",
       "jobs_found": 175,
-      "jobs_kept": 2,
+      "jobs_kept": 0,
       "errors": []
     },
     {
@@ -35,8 +35,8 @@
     },
     {
       "source": "smartrecruiters",
-      "jobs_found": 67,
-      "jobs_kept": 67,
+      "jobs_found": 66,
+      "jobs_kept": 66,
       "errors": []
     },
     {
@@ -78,12 +78,12 @@
     {
       "source": "remoteok",
       "jobs_found": 100,
-      "jobs_kept": 3,
+      "jobs_kept": 1,
       "errors": []
     },
     {
       "source": "remotive",
-      "jobs_found": 0,
+      "jobs_found": 16,
       "jobs_kept": 0,
       "errors": []
     },
@@ -102,7 +102,7 @@
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 39,
+      "jobs_kept": 40,
       "errors": []
     },
     {
@@ -114,31 +114,31 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 25,
+      "jobs_kept": 17,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 196,
-      "jobs_kept": 56,
+      "jobs_found": 32,
+      "jobs_kept": 14,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 328,
-      "jobs_kept": 148,
+      "jobs_found": 333,
+      "jobs_kept": 142,
       "errors": []
     },
     {
       "source": "reed",
-      "jobs_found": 663,
-      "jobs_kept": 107,
+      "jobs_found": 657,
+      "jobs_kept": 95,
       "errors": []
     },
     {
       "source": "hackernews",
       "jobs_found": 212,
-      "jobs_kept": 7,
+      "jobs_kept": 5,
       "errors": []
     },
     {
@@ -170,7 +170,7 @@
     {
       "source": "japandev",
       "jobs_found": 157,
-      "jobs_kept": 2,
+      "jobs_kept": 1,
       "errors": []
     }
   ]
