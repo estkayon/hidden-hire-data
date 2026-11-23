@@ -1,25 +1,23 @@
 {
-  "run_at": "2026-11-23T02:52:52.260330+00:00",
+  "run_at": "2026-11-23T13:02:03.779680+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2240,
+      "jobs_found": 2219,
       "jobs_kept": 15,
       "errors": []
     },
     {
       "source": "lever",
-      "jobs_found": 653,
+      "jobs_found": 657,
       "jobs_kept": 4,
       "errors": []
     },
     {
       "source": "ashby",
-      "jobs_found": 1861,
+      "jobs_found": 1855,
       "jobs_kept": 28,
-      "errors": [
-        "ashby/openai: bad job (ValidationError)"
-      ]
+      "errors": []
     },
     {
       "source": "workable",
@@ -29,25 +27,25 @@
     },
     {
       "source": "recruitee",
-      "jobs_found": 37,
+      "jobs_found": 39,
       "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "smartrecruiters",
-      "jobs_found": 63,
-      "jobs_kept": 63,
+      "jobs_found": 64,
+      "jobs_kept": 64,
       "errors": []
     },
     {
       "source": "personio",
-      "jobs_found": 64,
+      "jobs_found": 63,
       "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "teamtailor",
-      "jobs_found": 86,
+      "jobs_found": 87,
       "jobs_kept": 0,
       "errors": []
     },
@@ -59,8 +57,8 @@
     },
     {
       "source": "wordpress",
-      "jobs_found": 20,
-      "jobs_kept": 0,
+      "jobs_found": 22,
+      "jobs_kept": 2,
       "errors": []
     },
     {
@@ -96,18 +94,18 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 59,
+      "jobs_kept": 55,
       "errors": []
     },
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 33,
+      "jobs_kept": 27,
       "errors": []
     },
     {
       "source": "workingnomads",
-      "jobs_found": 35,
+      "jobs_found": 37,
       "jobs_kept": 1,
       "errors": []
     },
@@ -119,34 +117,32 @@
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 70,
-      "jobs_kept": 32,
+      "jobs_found": 178,
+      "jobs_kept": 60,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 0,
-      "jobs_kept": 0,
-      "errors": [
-        "mycareersfuture: ReadTimeout"
-      ]
+      "jobs_found": 320,
+      "jobs_kept": 127,
+      "errors": []
     },
     {
       "source": "reed",
-      "jobs_found": 659,
-      "jobs_kept": 94,
+      "jobs_found": 660,
+      "jobs_kept": 99,
       "errors": []
     },
     {
       "source": "hackernews",
-      "jobs_found": 211,
-      "jobs_kept": 3,
+      "jobs_found": 210,
+      "jobs_kept": 2,
       "errors": []
     },
     {
       "source": "seek",
-      "jobs_found": 424,
-      "jobs_kept": 99,
+      "jobs_found": 399,
+      "jobs_kept": 83,
       "errors": [
         "seek/TH-Main: HTTP 403"
       ]
