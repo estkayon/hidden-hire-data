@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-22T21:52:59.367036+00:00",
+  "run_at": "2026-11-23T02:52:52.260330+00:00",
   "sources": [
     {
       "source": "greenhouse",
@@ -83,7 +83,7 @@
     },
     {
       "source": "remotive",
-      "jobs_found": 0,
+      "jobs_found": 16,
       "jobs_kept": 0,
       "errors": []
     },
@@ -96,13 +96,13 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 60,
+      "jobs_kept": 59,
       "errors": []
     },
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 34,
+      "jobs_kept": 33,
       "errors": []
     },
     {
@@ -114,25 +114,27 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 20,
+      "jobs_kept": 31,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 97,
-      "jobs_kept": 43,
+      "jobs_found": 70,
+      "jobs_kept": 32,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 331,
-      "jobs_kept": 144,
-      "errors": []
+      "jobs_found": 0,
+      "jobs_kept": 0,
+      "errors": [
+        "mycareersfuture: ReadTimeout"
+      ]
     },
     {
       "source": "reed",
-      "jobs_found": 662,
-      "jobs_kept": 95,
+      "jobs_found": 659,
+      "jobs_kept": 94,
       "errors": []
     },
     {
@@ -143,9 +145,11 @@
     },
     {
       "source": "seek",
-      "jobs_found": 0,
-      "jobs_kept": 0,
-      "errors": []
+      "jobs_found": 424,
+      "jobs_kept": 99,
+      "errors": [
+        "seek/TH-Main: HTTP 403"
+      ]
     },
     {
       "source": "remoteintegrity",
