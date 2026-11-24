@@ -1,22 +1,22 @@
 {
-  "run_at": "2026-11-24T11:03:11.693144+00:00",
+  "run_at": "2026-11-24T21:20:05.455683+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2241,
-      "jobs_kept": 17,
+      "jobs_found": 2254,
+      "jobs_kept": 20,
       "errors": []
     },
     {
       "source": "lever",
-      "jobs_found": 646,
-      "jobs_kept": 4,
+      "jobs_found": 645,
+      "jobs_kept": 3,
       "errors": []
     },
     {
       "source": "ashby",
-      "jobs_found": 1856,
-      "jobs_kept": 31,
+      "jobs_found": 1869,
+      "jobs_kept": 32,
       "errors": []
     },
     {
@@ -27,14 +27,14 @@
     },
     {
       "source": "recruitee",
-      "jobs_found": 39,
+      "jobs_found": 41,
       "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "smartrecruiters",
-      "jobs_found": 64,
-      "jobs_kept": 64,
+      "jobs_found": 65,
+      "jobs_kept": 65,
       "errors": []
     },
     {
@@ -94,13 +94,13 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 51,
+      "jobs_kept": 43,
       "errors": []
     },
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 37,
+      "jobs_kept": 38,
       "errors": []
     },
     {
@@ -112,31 +112,31 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 37,
+      "jobs_kept": 36,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 240,
-      "jobs_kept": 69,
+      "jobs_found": 289,
+      "jobs_kept": 85,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 326,
-      "jobs_kept": 139,
+      "jobs_found": 327,
+      "jobs_kept": 146,
       "errors": []
     },
     {
       "source": "reed",
-      "jobs_found": 669,
-      "jobs_kept": 114,
+      "jobs_found": 676,
+      "jobs_kept": 122,
       "errors": []
     },
     {
       "source": "hackernews",
       "jobs_found": 209,
-      "jobs_kept": 1,
+      "jobs_kept": 0,
       "errors": []
     },
     {
