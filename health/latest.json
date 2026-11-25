@@ -1,22 +1,22 @@
 {
-  "run_at": "2026-11-25T04:56:18.687051+00:00",
+  "run_at": "2026-11-25T15:43:20.676697+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2258,
-      "jobs_kept": 19,
+      "jobs_found": 2253,
+      "jobs_kept": 24,
       "errors": []
     },
     {
       "source": "lever",
-      "jobs_found": 646,
-      "jobs_kept": 3,
+      "jobs_found": 651,
+      "jobs_kept": 5,
       "errors": []
     },
     {
       "source": "ashby",
-      "jobs_found": 1876,
-      "jobs_kept": 36,
+      "jobs_found": 1881,
+      "jobs_kept": 38,
       "errors": []
     },
     {
@@ -27,31 +27,31 @@
     },
     {
       "source": "recruitee",
-      "jobs_found": 41,
+      "jobs_found": 38,
       "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "smartrecruiters",
-      "jobs_found": 65,
-      "jobs_kept": 65,
+      "jobs_found": 66,
+      "jobs_kept": 66,
       "errors": []
     },
     {
       "source": "personio",
-      "jobs_found": 63,
+      "jobs_found": 65,
       "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "teamtailor",
-      "jobs_found": 89,
+      "jobs_found": 87,
       "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "manatal",
-      "jobs_found": 25,
+      "jobs_found": 26,
       "jobs_kept": 2,
       "errors": []
     },
@@ -69,7 +69,7 @@
     },
     {
       "source": "jazzhr",
-      "jobs_found": 8,
+      "jobs_found": 9,
       "jobs_kept": 0,
       "errors": []
     },
@@ -94,43 +94,43 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 33,
+      "jobs_kept": 32,
       "errors": []
     },
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 38,
+      "jobs_kept": 47,
       "errors": []
     },
     {
       "source": "workingnomads",
-      "jobs_found": 37,
+      "jobs_found": 38,
       "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 42,
+      "jobs_kept": 23,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 181,
-      "jobs_kept": 51,
+      "jobs_found": 263,
+      "jobs_kept": 72,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 334,
-      "jobs_kept": 153,
+      "jobs_found": 322,
+      "jobs_kept": 165,
       "errors": []
     },
     {
       "source": "reed",
-      "jobs_found": 682,
-      "jobs_kept": 119,
+      "jobs_found": 680,
+      "jobs_kept": 135,
       "errors": []
     },
     {
@@ -148,7 +148,7 @@
     {
       "source": "remoteintegrity",
       "jobs_found": 6,
-      "jobs_kept": 1,
+      "jobs_kept": 0,
       "errors": []
     },
     {
