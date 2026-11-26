@@ -1,22 +1,22 @@
 {
-  "run_at": "2026-11-25T15:43:20.676697+00:00",
+  "run_at": "2026-11-26T00:29:33.951395+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2253,
+      "jobs_found": 2250,
       "jobs_kept": 24,
       "errors": []
     },
     {
       "source": "lever",
-      "jobs_found": 651,
+      "jobs_found": 653,
       "jobs_kept": 5,
       "errors": []
     },
     {
       "source": "ashby",
-      "jobs_found": 1881,
-      "jobs_kept": 38,
+      "jobs_found": 1883,
+      "jobs_kept": 37,
       "errors": []
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "source": "remotive",
-      "jobs_found": 0,
-      "jobs_kept": 0,
+      "jobs_found": 16,
+      "jobs_kept": 1,
       "errors": []
     },
     {
@@ -94,13 +94,13 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 32,
+      "jobs_kept": 30,
       "errors": []
     },
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 47,
+      "jobs_kept": 41,
       "errors": []
     },
     {
@@ -112,25 +112,25 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 23,
+      "jobs_kept": 27,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 263,
-      "jobs_kept": 72,
+      "jobs_found": 124,
+      "jobs_kept": 23,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 322,
-      "jobs_kept": 165,
+      "jobs_found": 317,
+      "jobs_kept": 166,
       "errors": []
     },
     {
       "source": "reed",
-      "jobs_found": 680,
-      "jobs_kept": 135,
+      "jobs_found": 679,
+      "jobs_kept": 130,
       "errors": []
     },
     {
@@ -141,9 +141,11 @@
     },
     {
       "source": "seek",
-      "jobs_found": 0,
-      "jobs_kept": 0,
-      "errors": []
+      "jobs_found": 431,
+      "jobs_kept": 91,
+      "errors": [
+        "seek/TH-Main: HTTP 403"
+      ]
     },
     {
       "source": "remoteintegrity",
@@ -161,7 +163,7 @@
     },
     {
       "source": "bulldogjob",
-      "jobs_found": 17,
+      "jobs_found": 16,
       "jobs_kept": 6,
       "errors": []
     },
