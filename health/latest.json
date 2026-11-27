@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-11-26T19:42:10.247922+00:00",
+  "run_at": "2026-11-27T02:55:23.104437+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2239,
-      "jobs_kept": 23,
+      "jobs_found": 2243,
+      "jobs_kept": 19,
       "errors": []
     },
     {
@@ -16,12 +16,12 @@
     {
       "source": "ashby",
       "jobs_found": 1895,
-      "jobs_kept": 39,
+      "jobs_kept": 38,
       "errors": []
     },
     {
       "source": "workable",
-      "jobs_found": 176,
+      "jobs_found": 174,
       "jobs_kept": 0,
       "errors": []
     },
@@ -94,7 +94,7 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 45,
+      "jobs_kept": 54,
       "errors": []
     },
     {
@@ -112,25 +112,25 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 15,
+      "jobs_kept": 19,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 272,
-      "jobs_kept": 71,
+      "jobs_found": 170,
+      "jobs_kept": 53,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 319,
-      "jobs_kept": 187,
+      "jobs_found": 324,
+      "jobs_kept": 167,
       "errors": []
     },
     {
       "source": "reed",
-      "jobs_found": 681,
-      "jobs_kept": 133,
+      "jobs_found": 672,
+      "jobs_kept": 108,
       "errors": []
     },
     {
@@ -141,9 +141,11 @@
     },
     {
       "source": "seek",
-      "jobs_found": 0,
-      "jobs_kept": 0,
-      "errors": []
+      "jobs_found": 449,
+      "jobs_kept": 94,
+      "errors": [
+        "seek/TH-Main: HTTP 403"
+      ]
     },
     {
       "source": "remoteintegrity",
