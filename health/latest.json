@@ -1,22 +1,22 @@
 {
-  "run_at": "2026-11-27T12:38:18.578374+00:00",
+  "run_at": "2026-11-27T22:03:41.262578+00:00",
   "sources": [
     {
       "source": "greenhouse",
-      "jobs_found": 2237,
-      "jobs_kept": 19,
+      "jobs_found": 2258,
+      "jobs_kept": 18,
       "errors": []
     },
     {
       "source": "lever",
-      "jobs_found": 655,
+      "jobs_found": 657,
       "jobs_kept": 4,
       "errors": []
     },
     {
       "source": "ashby",
-      "jobs_found": 1890,
-      "jobs_kept": 38,
+      "jobs_found": 1894,
+      "jobs_kept": 35,
       "errors": []
     },
     {
@@ -27,14 +27,14 @@
     },
     {
       "source": "recruitee",
-      "jobs_found": 38,
+      "jobs_found": 34,
       "jobs_kept": 0,
       "errors": []
     },
     {
       "source": "smartrecruiters",
-      "jobs_found": 65,
-      "jobs_kept": 65,
+      "jobs_found": 64,
+      "jobs_kept": 64,
       "errors": []
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "source": "teamtailor",
-      "jobs_found": 90,
+      "jobs_found": 89,
       "jobs_kept": 0,
       "errors": []
     },
@@ -81,8 +81,8 @@
     },
     {
       "source": "remotive",
-      "jobs_found": 17,
-      "jobs_kept": 1,
+      "jobs_found": 0,
+      "jobs_kept": 0,
       "errors": []
     },
     {
@@ -94,13 +94,13 @@
     {
       "source": "himalayas",
       "jobs_found": 500,
-      "jobs_kept": 43,
+      "jobs_kept": 42,
       "errors": []
     },
     {
       "source": "jobicy",
       "jobs_found": 500,
-      "jobs_kept": 28,
+      "jobs_kept": 25,
       "errors": []
     },
     {
@@ -112,25 +112,25 @@
     {
       "source": "arbeitnow",
       "jobs_found": 300,
-      "jobs_kept": 20,
+      "jobs_kept": 31,
       "errors": []
     },
     {
       "source": "arbeitsagentur",
-      "jobs_found": 266,
-      "jobs_kept": 85,
+      "jobs_found": 355,
+      "jobs_kept": 122,
       "errors": []
     },
     {
       "source": "mycareersfuture",
-      "jobs_found": 325,
-      "jobs_kept": 147,
+      "jobs_found": 318,
+      "jobs_kept": 149,
       "errors": []
     },
     {
       "source": "reed",
-      "jobs_found": 676,
-      "jobs_kept": 122,
+      "jobs_found": 677,
+      "jobs_kept": 123,
       "errors": []
     },
     {
@@ -141,14 +141,9 @@
     },
     {
       "source": "seek",
-      "jobs_found": 177,
-      "jobs_kept": 39,
-      "errors": [
-        "seek/MY-Main: HTTP 403",
-        "seek/PH-Main: HTTP 403",
-        "seek/SG-Main: HTTP 403",
-        "seek/TH-Main: HTTP 403"
-      ]
+      "jobs_found": 0,
+      "jobs_kept": 0,
+      "errors": []
     },
     {
       "source": "remoteintegrity",
